@@ -1,21 +1,18 @@
 module.exports = {
-    name: "Code Stitch Web Designs",
-    email: "help@codestitch.app",
-    phoneForTel: "555-779-4407",
-    phoneFormatted: "(555) 779-4407",
+    name: "Your Property Tax Expert Limited",
+    email: "david@yourpropertytaxexpert.co.uk",
+    phoneForTel: "07928960845",
+    phoneFormatted: "+447928960845",
     address: {
-        lineOne: "First Address Line",
-        lineTwo: "Second Address Line",
-        city: "Denver",
-        state: "CO",
-        zip: "80206",
-        country: "US",
-        mapLink: "https://goo.gl/maps/UAQn4vuGDiwv7DV39",
+        lineOne: "7 Lynwood Close",
+        lineTwo: "Ponteland",
+        city: "Northumberland",
+        state: "Northumberland",
+        zip: "NE209JG",
+        country: "GB",
+        mapLink: "https://g.co/kgs/2GBHG67",
     },
-    socials: {
-        facebook: "https://www.facebook.com/",
-        instagram: "https://www.instagram.com/",
-    },
-    //! Make sure you include the file protocol (e.g. https://) and that NO TRAILING SLASH is included
-    domain: "https://www.example.com",
+    socials: { },
+    //! Include the file protocol (https://) and no trailing /
+    domain: "https://yourpropertytaxexpert.co.uk",
 };
